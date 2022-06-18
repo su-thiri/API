@@ -1,0 +1,2 @@
+# API
+For weathermap api
